@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-articles](backend/modules)
 - [react-native-articles](modules/articles)
 - [screen-invite-friends](screens/invite-friends)
+- [screen-account-settings](screens/account-settings)
 
 # Getting started: Frontend
 
